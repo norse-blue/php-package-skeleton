@@ -56,6 +56,8 @@
             "@test:coverage",
             "@analyze"
         ],
+        "insights": "phpinsights --no-interaction",
+        "insights:summary": "phpinsights --no-interaction --summary",
         "style:check": "phpcs",
         "style:fix": "phpcbf || phpcs",
         "test": "pest --colors=always",
