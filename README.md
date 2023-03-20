@@ -17,7 +17,7 @@
 ## Installation
 
 >Requirements:
->- [PHP 8.0+](https://php.net/releases)
+>- [PHP 8.2+](https://php.net/releases)
 
 Install this package using Composer:
 
@@ -27,7 +27,7 @@ composer require norse-blue/package-skeleton
 
 ## Usage
 
-To get more in-depth knowledge about this package, please refer to the [Official Documentation](https://norse-blue.github.io/php-package-skeleton/).
+Basic usage of this package:
 
 ## Changelog
 
@@ -50,7 +50,7 @@ Please review our [security policy](https://github.com/norse-blue/php-package-sk
 
 **Do you like this project? Support it by donating**
 
-<a href="https://www.buymeacoffee.com/axelitus"><img src="docs/assets/images/buy-me-a-coffee.svg" width="180" alt="Buy me a coffee"></img></a>
+<a href="https://www.buymeacoffee.com/axelitus"><img src=".assets/buy-me-a-coffee.svg" width="180" alt="Buy me a coffee"></img></a>
 
 ## License
 
